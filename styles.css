@@ -52,6 +52,7 @@ form>div:nth-child(3){
     height: 2%;
     width: 60%;
     border-radius: 0.9em;
+    outline: none;
 }
 .add{
     width: 100%;
