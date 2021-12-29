@@ -1,0 +1,1 @@
+If you have a short term memory like me XD, you can try my To do list. All you have to do is list all the necessary activities that you have to accomplish. 
